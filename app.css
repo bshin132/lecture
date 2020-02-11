@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+#boxSettings{
+    background-color: rgb(65, 64, 64);
+    color: white;
+    position: absolute;
+    padding: 10px;
+    right: 0;
+    top: 0;
+    display: flex;
+}
+
+
+#settingsButtons{
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+
